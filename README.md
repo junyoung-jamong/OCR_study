@@ -16,3 +16,9 @@ OCR관련 논문 내용 번역 및 정리
 * 기존 STR 모델을 동일한 데이터 집합에서 학습 및 비교하고, 각 모델의 공통점을 기반으로 4단계의 STR 프레임워크를 정의
 * STR 스터디의 시작점으로 추천
 
+
+
+[**STAR-Net: A SpaTial Attention Residue Network for Scene Text Recognition**](./STR/STAR-Net.md)
+
+* TPS-ResNet-BiLSTMT-CTC 모델
+
