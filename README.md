@@ -30,3 +30,12 @@ OCR관련 논문 내용 번역 및 정리
 [**STAR-Net: A SpaTial Attention Residue Network for Scene Text Recognition**](./STR/STAR-Net.md)
 
 * TPS-ResNet-BiLSTMT-CTC 모델
+
+
+
+## Common
+
+[**Synthetic Data for Text Localisation in Natural Images**](./Common/SynthText.md)
+
+* 배경 이미지에 자연스럽게 텍스트를 추가함으로써 자동으로 텍스트 합성 이미지를 생성하는 엔진을 제안
+
