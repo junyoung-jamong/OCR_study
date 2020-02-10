@@ -1,4 +1,4 @@
-#Synthetic Data for Text Localisation in Natural Images
+# Synthetic Data for Text Localisation in Natural Images
 
 |[PAPER](http://openaccess.thecvf.com/content_cvpr_2016/papers/Gupta_Synthetic_Data_for_CVPR_2016_paper.pdf)| [Datasets](http://www.robots.ox.ac.uk/~vgg/data/scenetext/) |
 
@@ -136,7 +136,7 @@ Scene Text Detection & Recognition을 위한 Deep Network 모델은 많은 양�
 
 텍스트의 위치와 방향이 결정되면, 색상을 정한다. 텍스트의 색상은 IIIT5K 데이터 세트의 잘라낸 단어 이미지로부터 학습된다.
 
-각 단어 이미지의 픽셀은 색상에 대한 K-means 클러스터링을 통해 2개의 그룹으로 나뉜다. 한 그룹은 전경색을 위해, 나머지 한그룹은 배경색을 위해 사용된다.
+각 단어 이미지의 픽셀은 색상에 대한 K-means 클러스터링을 통해 2개의 그룹으로 나뉜다. 한 그룹은 전경색을 위해, 나머지 한그룹은 배경색을 위해 사용된다.
 
 
 
@@ -152,5 +152,7 @@ Scene Text Detection & Recognition을 위한 Deep Network 모델은 많은 양�
 * [Fast Poisson image editing based on Discrete Sine Transform](http://web.media.mit.edu/~raskar/photo/code.pdf )
 
 
+
+____
 
 > Text Detection Network 섹션은 생략...
